@@ -1,0 +1,22 @@
+
+
+body {
+	background-color: #ebebeb;
+	font-family: helvetica;
+}
+
+.rotated {
+	transform: rotate(42deg);
+	background-color: #262626;
+	margin-top: 75px;
+	margin-left:100px;
+	width: 200px;
+
+}
+.rotated-reverse {
+	transform: rotate(-42deg);
+	background-color: #262626;
+	margin: 0;
+	width: 200px;
+
+
